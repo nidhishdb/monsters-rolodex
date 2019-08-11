@@ -33,7 +33,14 @@
 }
 
 .main-heading {
-  font-family: 'Bigelow Rules';
+  font-family: "Bigelow Rules";
   font-size: 72px;
   color: #0ccac4;
+}
+
+h1 {
+  font-family: "Permanent Marker", cursive;
+}
+p {
+  font-family: "Lexend Deca", sans-serif;
 }
